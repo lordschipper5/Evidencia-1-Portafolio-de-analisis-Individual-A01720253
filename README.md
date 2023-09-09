@@ -4,6 +4,8 @@
 
 ## Estructura de este repositorio
 
+Los reportes y la implementacion del analisis son las entregas que ya pasaron por el proceso de retroalimentacion y se ubican dentro de este repositorio.
+
 En la raíz de este repositorio, encontrarás lo siguiente:
 
 ### Carpetas

@@ -14,7 +14,7 @@ En la raíz de este repositorio, encontrarás lo siguiente:
     - **Análisis y Reporte sobre el desempeño del modelo Implementacion.ipynb** es el archivo de la implementacion del modelo y sus ajustes en python, aqui se visualiza el rendimiento y se ajustan los valores con de acuerdo al modelo anterior. Nota: **Los valores en la funcion de gridSearch de SKLEARN son hiperparametros ya probados anteriormente de manera iterativa, son los parametros deseados y un ejemplo del porque se decidieron estos valores**.
 
 ### Archivo
-- **Análisis del contexto y la normatividad A01720253** En este archivo se proporciona una visión detallada sobre la importancia de la ética y la legalidad en el análisis de datos de precios de teléfonos móviles utilizando Python. Incluye informacion de la Responsabilidad Ética y Legal, Precisión y Transparencia, Cumplimiento de Normativas, Anonimización de Datos, Prevención de Sesgos, Transparencia en el Código, Buenas Prácticas y Cultura Ética.
+- **Análisis del contexto y la normatividad A01720253** En este archivo se proporciona una visión detallada sobre la importancia de la ética y la legalidad en el análisis de datos de precios de teléfonos móviles utilizando Python. Incluye informacion de la Responsabilidad Ética y Legal, Precisión y Transparencia, Cumplimiento de Normativas, Anonimización de Datos, Prevención de Sesgos, Transparencia en el Código, Buenas Prácticas y Cultura Ética. Esta entrega es para evaluar la competencia SEG0403
 
     
 Nota: La documentacion tecnica de las implementaciones se encuentran dentro de los archivos como comentarios o texto agregado. 
